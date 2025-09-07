@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    string str = "ManojTJ";
+    string str = "zohocorporation";
 
     int range = str.size() / 3;
     int valueInd = 0;
@@ -20,3 +20,10 @@ int main(){
     }
     return 0;
 }
+
+// zohoco
+//     r 
+//    p  
+//   o   
+//  r    
+// ation
